@@ -1,4 +1,5 @@
 # koin-mvvm
+using with Koin,Room,RxKotlin,etc...
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
@@ -10,5 +11,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.KOHuyn:koin-mvvm:Tag'
+		 implementation 'com.github.KOHuyn:koin-mvvm:1.0.0'
 	}
