@@ -67,7 +67,9 @@ dependencies {
     kapt 'com.github.bumptech.glide:compiler:4.11.0'
     implementation 'com.amitshekhar.android:rx2-android-networking:1.0.2'
     //font
-    implementation 'uk.co.chrisjenx:calligraphy:2.3.0'
+//    implementation 'uk.co.chrisjenx:calligraphy:2.3.0'
+    implementation 'io.github.inflationx:calligraphy3:3.1.1'
+    implementation 'io.github.inflationx:viewpump:2.0.3'
     implementation 'com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.2.0'
     implementation "org.koin:koin-android:$koin_version"
     implementation "org.koin:koin-android-viewmodel:$koin_version"
